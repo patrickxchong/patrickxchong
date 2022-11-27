@@ -1,6 +1,6 @@
 # Hello! 👋
 
-My name is Patrick and I'm a tech enthusiast from Malaysia who enjoys building solutions to everyday problems with code. Self taught fullstack developer, wannabe data analyst, tinkerer of hardware and a little bit of a Linux geek.
+My name is Patrick and I'm a tech enthusiast from Malaysia who enjoys building solutions to everyday problems with code. Self taught fullstack developer, data analyst, tinkerer of hardware and a little bit of a Linux geek.
 
 I write about technology, music and other random topics at [patrickxchong.com](https://www.patrickxchong.com/).
 
